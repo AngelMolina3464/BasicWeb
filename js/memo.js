@@ -23,5 +23,5 @@ console.log("$ git checkout -b NombreDe la Rama  ")
 
 // Para Webarlo al Cloud 
 // Para Pushearlo
-console.log("git remote add origin https://github.com/AngelMolina3464/proyecto_inicial.git") 
+console.log(" git remote add origin https://github.com/AngelMolina3464/BasicWeb.git") 
 console.log("git push origin master")
