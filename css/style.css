@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: rgb(24, 24, 24);
+}
+nav {
+  width: 80%;
+  margin: 0 auto;
+}
+nav > div > ul {
+  display: flex;
+  justify-content: center;
+  column-gap: 25px;
+  list-style: none;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: red;
+}
+
+main {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
+
+main > div {
+  padding: 15px;
+}
+.letter {
+  font-weight: bold;
+  color: rgb(214, 8, 8);
+  font-size: 180px;
+}
